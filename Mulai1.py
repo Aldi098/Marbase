@@ -14,7 +14,7 @@ def tsl():
                          ▀         
             \033[1;32m--\033[1;31m[ \033[1;37mToken Security Login \033[1;31m]\033[1;32m--
 
-\033[1;31m● \033[1;37mLink Token \033[31m: \033[1;31m[ \033[1;32;4m\033[0m \033[1;31m]
+\033[1;31m● \033[1;37mLink Token \033[31m: \033[1;31m[ \033[1;32;4mSubscribe Kenzi Ganzz\033[0m \033[1;31m]
      """)
      os.system("clear")
      print(banner)
